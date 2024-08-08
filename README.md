@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Kaushal! 
 
 <!--
 **Kaushal1101/Kaushal1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
